@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: "Manrope", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: var(--fz);
+  background-color: #080d16;
+  color: #dbeaf8;
+}
+
+h1 {
+  margin-bottom: 50px;
+  font-family: "Courier New", Courier, monospace;
+  border: 1px solid orange;
+  display: inline-block;
+  padding: 10px;
+  cursor: pointer;
+}

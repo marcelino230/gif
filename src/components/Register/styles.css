@@ -1,0 +1,30 @@
+.register-form {
+  width: 100%;
+  max-width: 350px;
+  margin: 0 auto;
+}
+
+.register-form label {
+  display: block;
+  padding: 10px 0;
+}
+
+.register-form input {
+  line-height: 1.2;
+  width: 100%;
+  display: block;
+  font-size: 20px;
+  border-radius: 4px;
+  border: 1px solid white;
+  box-sizing: border-box;
+  text-indent: 10px;
+}
+
+.register-form p {
+  color: #bf1650;
+}
+
+.register-form h4 {
+  margin: 0;
+  padding: 10px;
+}

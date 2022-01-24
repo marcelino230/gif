@@ -1,0 +1,29 @@
+@api = http://localhost:4000/api
+@api2 = https://gifgifapi.herokuapp.com/api
+
+### post login
+POST {{api}}/login
+Content-Type: application/json
+
+{
+    "username": "admin",
+    "password": "admin123"
+}
+
+### post register
+POST {{api}}/register
+Content-Type: application/json
+
+{
+    "username": "pepito",
+    "password": "pepe"
+}
+
+###
+POST {{api2}}/login
+Content-Type: application/json
+
+{
+    "username": "admin",
+    "password": "admin123"
+}

@@ -1,0 +1,10 @@
+h2 {
+  margin: 20px;
+  color: rgb(214, 144, 52);
+  font-family: Georgia, "Times New Roman", Times, serif, Haettenschweiler,
+    "Arial Narrow Bold", sans-serif;
+}
+
+.home input {
+  font-size: large;
+}
